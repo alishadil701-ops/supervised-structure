@@ -1,1 +1,35 @@
 # supervised-structure
+
+Import Libraries
+      ↓
+Load Dataset
+      ↓
+EDA
+      ↓
+Handle Missing Values
+      ↓
+Outlier Detection
+      ↓
+Feature Engineering
+      ↓
+Encoding
+      ↓
+Feature Selection
+      ↓
+Scaling
+      ↓
+Train Test Split
+      ↓
+Train Multiple Models
+      ↓
+Evaluate Models
+      ↓
+Compare Models
+      ↓
+Select Best Model
+      ↓
+Fine Tune
+      ↓
+Final Model
+
+supervised structure
